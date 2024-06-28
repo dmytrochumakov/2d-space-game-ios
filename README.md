@@ -1,1 +1,1 @@
-# 2d-space-game-ios
+# 2D Space Game for iOS Using SpriteKit
